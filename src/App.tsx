@@ -11,7 +11,7 @@ const units = [
     "speed": 9,
     "canDig": true,
     "requires": ["1 bow"],
-    "image": "archer.png"
+    "image": "archer"
   },
   {
     name: "Spearman",
@@ -21,7 +21,7 @@ const units = [
     "speed": 6,
     "canDig": true,
     "requires": ["1 spear"],
-    "image": "spearman.png"
+    "image": "spearman"
   },
   {
     name: "Maceman",
@@ -31,7 +31,7 @@ const units = [
     "speed": 8.5,
     "canDig": true,
     "requires": ["1 mace", "1 leather armor"],
-    "image": "maceman.png"
+    "image": "maceman"
   },
   {
     name: "Crossbowman",
@@ -41,7 +41,7 @@ const units = [
     "speed": 5.5,
     "canDig": false,
     "requires": ["1 crossbow", "1 leather armor"],
-    "image": "crossbowman.png"
+    "image": "crossbowman"
   },
   {
     name: "Pikeman",
@@ -51,7 +51,7 @@ const units = [
     "speed": 6,
     "canDig": true,
     "requires": ["1 pike", "1 metal armor"],
-    "image": "pikeman.png"
+    "image": "pikeman"
   },
   {
     name: "Swordsman",
@@ -61,7 +61,7 @@ const units = [
     "speed": 4,
     "canDig": false,
     "requires": ["1 sword", "1 metal armor"],
-    "image": "swordsman.png"
+    "image": "swordsman"
   },
   {
     name: "Knights",
@@ -82,7 +82,7 @@ const units = [
     "speed": 9,
     "canDig": false,
     "requires": [],
-    "image": "arabarcher.png"
+    "image": "arabarcher"
   },
   {
     name: "Slave",
@@ -92,7 +92,7 @@ const units = [
     "speed": 9,
     "canDig": true,
     "requires": [],
-    "image": "slave.png"
+    "image": "slave"
   },
   {
     name: "Slinger",
@@ -102,7 +102,7 @@ const units = [
     "speed": 9,
     "canDig": false,
     "requires": [],
-    "image": "slinger.png"
+    "image": "slinger"
   },
   {
     name: "Horse Archer",
@@ -112,7 +112,7 @@ const units = [
     "speed": 9.5,
     "canDig": false,
     "requires": [],
-    "image": "horsearcher.png"
+    "image": "horsearcher"
   },
    {
     name: "Arabian Swordsman",
@@ -122,7 +122,7 @@ const units = [
     "speed": 4,
     "canDig": false,
     "requires": [],
-    "image": "arabswordsman.png"
+    "image": "arabswordsman"
   },
   {
     name: "Assassin",
@@ -132,7 +132,7 @@ const units = [
     "speed": 6.7,
     "canDig": false,
     "requires": [],
-    "image": "assassin.png"
+    "image": "assassin"
   },
   {
     name: "Fire Thrower",
@@ -142,7 +142,7 @@ const units = [
     "speed": 6,
     "canDig": false,
     "requires": [],
-    "image": "firethrower.png"
+    "image": "firethrower"
   },
   
   
